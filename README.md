@@ -84,3 +84,54 @@ This archive simply collects and organizes their publicly released APKs.
 - All rights belong to the original developers  
 
 This archive is for education, research, and preservation only.
+oringnal sites:                                                                                         === OPEN-SOURCE APP STORE CREDITS ===
+
+F-Droid
+Source code: https://gitlab.com/fdroid/fdroidclient
+Developed by: The F-Droid Project
+
+F-Droid Basic
+Source code: https://gitlab.com/fdroid/fdroidclient
+Developed by: The F-Droid Project
+
+Droidify
+Source code: https://github.com/Iamlooker/Droidify
+Developed by: Iamlooker and contributors
+
+FossDroid
+Source code: https://github.com/andreamaglie/fossdroid
+Developed by: FossDroid Team
+
+IzzyOnDroid
+Source code: https://apt.izzysoft.de/fdroid/
+Developed by: IzzySoft
+
+Obtainium
+Source code: https://github.com/ImranR98/Obtainium
+Developed by: ImranR98 and contributors
+
+Accrescent
+Source code: https://github.com/accrescent/accrescent
+Developed by: The Accrescent Project
+
+Neo Store
+Source code: https://github.com/NeoApplications/Neo-Store
+Developed by: NeoApplications Team
+
+Aurora Droid
+Source code: https://github.com/AuroraOSS/AuroraDroid
+Developed by: AuroraOSS Team
+
+=== OPEN-SOURCE APK INSTALLER CREDITS ===
+
+SAI (Split APKs Installer)
+Source code: https://github.com/Aefyr/SAI
+Developed by: Aefyr and contributors
+
+APK Installer (open-source)
+Source code: https://github.com/apk-editor/APK-Installer
+Developed by: APK Installer Project
+
+Obtainium (installer functionality)
+Source code: https://github.com/ImranR98/Obtainium
+Developed by: ImranR98 and contributors
