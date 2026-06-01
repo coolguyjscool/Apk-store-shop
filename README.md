@@ -145,7 +145,7 @@ Source code: https://github.com/Aefyr/SAI
 Developed by: Aefyr and contributors
 
 APK Installer (open-source)
-Source code: https://github.com/apk-editor/APK-Installer
+Source code: was taken down for a unknown reason 
 Developed by: APK Installer Project
 
 Obtainium (installer functionality)
